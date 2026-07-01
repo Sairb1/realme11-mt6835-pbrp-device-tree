@@ -10,6 +10,7 @@
 ```
 
 This repository contains the **PitchBlack Recovery Project (PBRP)** device tree for the **Realme 11 (RMX3780)**.
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/abeca0c9-ca8c-49b4-8a51-13794da98f10" />
 
 ---
 
