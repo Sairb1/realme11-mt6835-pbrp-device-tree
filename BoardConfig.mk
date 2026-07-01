@@ -193,5 +193,9 @@ TW_NO_SCREEN_BLANK := true
 TW_CUSTOM_VIBRATOR_PATH := /sys/class/leds/vibrator/brightness
 
 # PBRP specific
-PB_TORCH_PATH := "/sys/class/leds/flashlight/brightness"
-PB_TORCH_MAX_BRIGHTNESS := 1
+PB_THEME_ACCENT := "#FF5722"
+PB_SUPPORT_NAME := "@imnotaino"
+PB_DISABLE_BRIGHTNESS_CONTROL := false
+PB_DEVICE_NAME := "chongqing"
+PB_OEM_NAME := "realme"
+
